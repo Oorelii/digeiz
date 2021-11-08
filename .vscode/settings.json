@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+"javascript.format.enable": false,
+"compile-hero.disable-compile-files-on-did-save-code": false
+}
